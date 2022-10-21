@@ -1,0 +1,12 @@
+{
+  "dev": {},
+  "bsctest": {
+    "btcs": "0x0ca6871e94ABE7f1F93C295dcA8756047BE959bA",
+    "stakingContract": "0x827a7d1693E7e6874E0cFC95E33B89F00d28fA18",
+    "BTCS Token Contract": "0xEcF3F554f58e9eF274aa3DF60f9c9ca3Ba156073"
+  },
+  "rinkeby": {
+    "btcs": "0x41De94ecB62A30833a28F74bA31299f62376C789"
+  },
+  "main": {}
+}
